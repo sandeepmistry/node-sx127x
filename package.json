@@ -1,0 +1,26 @@
+{
+  "name": "sx127x",
+  "version": "0.0.0",
+  "description": "Node.js driver for Semtech SX1276/77/78/79 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepmistry/node-sx127x.git"
+  },
+  "keywords": [
+    "Semtech",
+    "SX1276",
+    "SX1277",
+    "SX1278",
+    "SX1279"
+  ],
+  "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepmistry/node-sx127x/issues"
+  },
+  "homepage": "https://github.com/sandeepmistry/node-sx127x#readme"
+}
