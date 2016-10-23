@@ -4,7 +4,7 @@
   "description": "Node.js driver for Semtech SX1276/77/78/79 ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint *.js lib/. examples/."
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/sandeepmistry/node-sx127x/issues"
   },
-  "homepage": "https://github.com/sandeepmistry/node-sx127x#readme"
+  "homepage": "https://github.com/sandeepmistry/node-sx127x#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "onoff": "^1.1.1",
+    "spi-device": "^0.2.4"
+  },
+  "os": [
+    "linux"
+  ],
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
 }
