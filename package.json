@@ -1,7 +1,7 @@
 {
   "name": "sx127x",
   "version": "0.0.0",
-  "description": "Node.js driver for Semtech SX1276/77/78/79 ",
+  "description": "Node.js driver for Semtech SX1276/77/78/79 based LoRa radios",
   "main": "index.js",
   "scripts": {
     "test": "jshint *.js lib/. examples/."
@@ -15,7 +15,8 @@
     "SX1276",
     "SX1277",
     "SX1278",
-    "SX1279"
+    "SX1279",
+    "LoRa"
   ],
   "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
   "license": "MIT",
