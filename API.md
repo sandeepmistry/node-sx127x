@@ -192,6 +192,6 @@ sx127x.crc(crc, callback(err));
 
 Generate a random byte, based on the Wideband RSSI measurement.
 
-```
+```js
 sx127x.readRandom(callback(err, data));
 ```
