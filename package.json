@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "^2.1.2",
     "onoff": "^1.1.1",
-    "spi-device": "^0.2.4"
+    "spi-device": "^2.0.8"
   },
   "os": [
     "linux"
