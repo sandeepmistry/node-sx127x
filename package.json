@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/sandeepmistry/node-sx127x#readme",
   "dependencies": {
-    "async": "^2.1.2",
-    "onoff": "^1.1.1",
-    "spi-device": "^0.2.4"
+    "async": "^3.2.3",
+    "onoff": "^4.0.0",
+    "spi-device": "^3.1.2"
   },
   "os": [
     "linux"
